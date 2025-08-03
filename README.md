@@ -10,7 +10,7 @@
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
- ![Image](https://github.com/user-attachments/assets/d69b401e-b2a5-4919-9abf-4f93808f9cf4)
+
 </p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/d69b401e-b2a5-4919-9abf-4f93808f9cf4">
